@@ -42,3 +42,14 @@ iframe#tela{
     width: 267px;
     height: 472px;
 }
+
+section#social{
+    text-align: right;
+    
+}
+
+section > a > img{
+    width: 70px;
+    border-radius: 50%;
+    margin-bottom: 30px;
+}
